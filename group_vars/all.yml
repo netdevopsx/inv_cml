@@ -4,5 +4,5 @@ ansible_network_os: ios
 system:
   ntp:
     servers:
-      - 0.de.pool.ntp.org
-      - 1.de.pool.ntp.org
+      - 80.237.128.148
+      - 193.30.120.245
